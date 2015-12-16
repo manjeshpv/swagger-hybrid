@@ -5,6 +5,7 @@ Demo of Swagger UI:  https://swagger-hybrid.herokuapp.com/ui[/filename]
 Example: https://swagger-hybrid.herokuapp.com/ui/auth or  https://swagger-hybrid.herokuapp.com/ui/auth.yaml 
 
 Demo of Swagger Editor: https://swagger-hybrid.herokuapp.com/
+![GIF Demo](http://g.recordit.co/Q94RkpVHrL.gif)
 [logo]: http://g.recordit.co/Q94RkpVHrL.gif "Swagger Create, Save and Test API Docs"
 
 How to Deploy
