@@ -21,3 +21,4 @@ How to Deploy
 #### Things to do:
 * Slack Notifications
 * Testing
+* Build
