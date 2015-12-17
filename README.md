@@ -1,4 +1,5 @@
 # swagger-hybrid
+![Codeship Badge](https://codeship.com/projects/d120a190-86a6-0133-4a1c-0adb093d7581/status?branch=master)
 swagger-ui &amp; swagger-editor for developers
 
 Demo of Swagger UI:  https://swagger-hybrid.herokuapp.com/ui[/filename]
