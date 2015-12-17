@@ -9,7 +9,7 @@ process.env.NODE_ENV = process.env.NODE_ENV || 'development';
 
 var express = require('express');
 var config = {
-  port:"5000"
+  port: process.env.PORT ||"5000"
 }
 // Setup server
 var app = express();
